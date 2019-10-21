@@ -1,2 +1,5 @@
 # JasperAzure
 Azure Extensions for Jasper
+
+
+# THIS IS IN FLIGHT AND JUST BARELY MOVED OVER WITH NO BUILD OR WORKING SOLUTION
